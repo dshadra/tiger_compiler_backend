@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: /usr/local/lib/antlr-4.11.1-complete.jar
+Created-By: 17.0.8.1 (Private Build)
+
